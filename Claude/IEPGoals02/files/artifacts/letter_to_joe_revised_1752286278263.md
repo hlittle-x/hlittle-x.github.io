@@ -1,0 +1,11 @@
+I want hugs. I want affection. I want you to reach for me when I move close. I want to cuddle. I want reassurance that you still have any desire to touch me. I want to feel like you want me to touch you. I want you to tell me you love me without me having to say it first. 
+
+I want you to follow me when it's obvious I'm upset and take me in your arms and comfort me. I want you to grab me and hold me until my body relaxes because I know that you're not going to pull away first. When you do pull away first, or when you don't reach for me, the story I tell myself is that you don't love me - that you think my body is disgusting and you're repulsed by my touch. I know this might be completely off base, but it's the narrative my brain constructs in those moments.
+
+I feel like you care about me, but I want to feel cared for, physically and emotionally. I want to feel liked. I want to to feel like more than a housemate and coparent. 
+
+I think over the years, I lied. I tried to make myself easy to love, to try to not have needs, because I didn't think anyone would want to make an effort. I said acts of service was the key, because it felt like the easiest way for anyone to love me without demanding too much for just myself. I told people I wasn't a hugger, because I didn't think people would actually want to hug me. And I certainly didn't deserve words of affirmation, so acts of service made the most sense. "Could you do me a big favor? If not, that's okay." followed by an embarrassingly simple request like "Can you carry that basket of laundry upstairs?" became an easy way of asking for a display of love or care. 
+
+But this version of me that has new information about who I am and how my nervous system works has a new understanding of a lot of things. I've learned that I've been masking my real needs for so long that I forgot what they were. My nervous system actually craves clear, focused connection - not just gentle background affection, but intentional touch and direct communication that helps me feel safe in my body and in our relationship. I need presence and certainty to feel connected - to know that touch and affection are wanted, not just tolerated.
+
+I know my body has changed over the years, and I need to know where I stand. I need honesty about whether you still want me in that way, even if that conversation is hard.
