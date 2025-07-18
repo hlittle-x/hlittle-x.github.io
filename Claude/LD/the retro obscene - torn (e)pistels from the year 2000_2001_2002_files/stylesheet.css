@@ -1,0 +1,59 @@
+A:active{
+color: black;
+}
+
+A:link{
+color: #FAF0E6;
+}
+
+A:visited{
+color: #CD5C5C;
+}
+body         { font-family: Verdana; font-size: 10pt; background-color: #000000; color:#FFFFFF}
+
+p         { font-family: Verdana; font-size: 9pt }
+p.Blue {color: #336699}
+
+table        { font-family: Verdana; font-size: 10pt; text-align: Left; padding: 2 }
+td        { font-family: Verdana; font-size: 10pt; text-align: Left }
+
+td.NavBar    { color: #C0C0C0; font-family: Verdana; font-size: 8pt; padding: 0 }
+a.NavLink    { color: #FFFFFF; font-family: Verdana; font-size: 9pt; text-decoration: 
+               underline }
+               
+table.NavBox { background-color: #000000; border-style: solid; border-color: #000000; 
+               padding: 0 }
+
+h1           { font-family: Arial; font-size: 14pt; color: #666666; font-weight: bold }
+h2           { font-size: 12pt; font-family: Arial; color: #333399; font-weight: bold }
+h3           { font-family: Verdana; font-size: 11pt; color: #336699; font-weight: bold }
+a.NavLink:active { color: #FF0000 }
+a.NavLink:visited { color: #00FFFF }
+a.BlueLink {color: #336699; font-weight: bold; text-decoration: none; font-size: 11pt;}
+textarea     { font-size: 10pt; font-family: Verdana }
+input        { font-size: 10pt; font-family: Verdana }
+select       { font-family: Verdana; font-size: 10pt }
+td.Footer        { font-family: Verdana; font-size: 8pt; text-align: Center }
+ul         { font-family: Verdana; font-size: 10pt }
+li         { font-family: Verdana; font-size: 10pt }
+
+/*
+     FILE ARCHIVED ON 18:42:53 Aug 05, 2002 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:45:47 Jul 18, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.606
+  exclusion.robots: 0.017
+  exclusion.robots.policy: 0.009
+  esindex: 0.012
+  cdx.remote: 34.916
+  LoadShardBlock: 835.045 (3)
+  PetaboxLoader3.datanode: 249.49 (4)
+  PetaboxLoader3.resolve: 819.454 (2)
+  load_resource: 336.105
+*/
